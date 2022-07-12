@@ -1,4 +1,9 @@
+# eslint config
 .eslintrc.json
+
+# mocha config
+.mocharc.js
+
 # compiled output
 /dist
 /tmp
@@ -60,6 +65,7 @@ yarn-error.log*
 # Dependency directories
 node_modules/
 jspm_packages/
+mochawesome-report/
 
 # Optional npm cache directory
 .npm
